@@ -10,3 +10,4 @@ This is the story of a piece of Tetris, one little square and a dev walk into a 
 ## backtracking
 ![backtracking](https://miro.medium.com/max/2000/0*_Nwj02soiQzJvqmI.)
 ## sources
+. https://medium.com/@bethnenniger/fillit-solving-for-the-smallest-square-of-tetrominos-c6316004f909
